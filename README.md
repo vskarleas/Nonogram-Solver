@@ -1,4 +1,13 @@
-# Un problème de tomographie discrète S6 2023 - 2024
+# Nonogram Solver : Un problème de tomographie discrète S6 2023 - 2024
+
+Video : [https://www.youtube.com/watch?v=L3JfIoFv7Ng](https://www.youtube.com/watch?v=L3JfIoFv7Ng)
+
+## Authors
+
+* Vasileios Filippos Skarleas
+* Yanis Sadoun
+
+---
 
 ## Introduction
 
@@ -925,6 +934,8 @@ Le développement de notre solution du jeu nonogram a été une expérience form
 
 Actuellement, notre programme utilise une interface en ligne de commande. Cependant, pour le rendre visuellement plus attrayant, on pourrait ajouter une interface graphique en utilisant des bibliothèques externes telles que GTK+, Qt, ou SDL. Cette dernière permettrait notamment d'afficher les puzzles résolus sous forme d'images en couleur. Néanmoins, cette amélioration demanderait des compétences et des installations supplémentaires. En outre, optimiser l'algorithme d'exploration, si cela s'avère possible, contribuerait à accroître l'efficacité du jeu, peut-être par l'implémentation d'un algorithme de programmation dynamique qui sauvegarderait les résultats intermédiaires de la fonction T_v2.
 
-## Copyright
+---
 
-###### Yanis Sadoun, Vasileios Filippos Skarleas | 2023 - 2024 All rights reserved.
+### License Information
+
+Nonogram-Solver © 2023-2024 by Vasileios Filippos Skarleas, and Yanis Sadoun is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
