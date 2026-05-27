@@ -1,4 +1,4 @@
-# Nonogram Solver : Un problème de tomographie discrète S6 2023 - 2024
+# Nonogram Solver : Un problème de tomographie discrète ROB3-S6 2023 - 2024
 
 Video : [https://www.youtube.com/watch?v=L3JfIoFv7Ng](https://www.youtube.com/watch?v=L3JfIoFv7Ng)
 
